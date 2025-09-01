@@ -1,0 +1,14 @@
+font=JetBrainsMono Nerd Font
+font-size=12
+background-color=#24282f
+outline-width=0
+border-width=2
+border-color=#4b4b4b
+text-color=#9e9e9e
+prompt-text="App: "
+prompt-padding=4
+selection-color=#ffffff
+selection-match-color=#a3b3cf
+corner-radius=0
+width=400
+height=500
